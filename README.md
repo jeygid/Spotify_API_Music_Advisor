@@ -1,4 +1,4 @@
-# Spotify API Music Advisor
+# Spotify API Music Advisor   
 
 Commands:<br>   
 
